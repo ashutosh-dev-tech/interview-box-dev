@@ -24,3 +24,7 @@
 .post-ques:hover{
     background: wheat;
 }
+
+.post-header a{
+    cursor: pointer;
+}

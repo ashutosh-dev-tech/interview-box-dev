@@ -9,7 +9,7 @@ const Post = (props) => {
     <>
         <div className="post-header">
             <div>{curPost.exprience} yrs</div>
-            <div>{curPost.company}</div>
+            <div><a href={curPost.website} target="_black">{curPost.company}</a></div>
             <div>{curPost.role}</div>
         </div> 
         <ol>
