@@ -1,11 +1,12 @@
 {
     "expList": [
-        {
+        {   "id": 0,
             "company": "Razarpay",
             "role": "Frontend",
             "exprience": 2,
-            "questions": {
-                "round 1":[
+            "rounds": [
+            {
+                "questions": [
                 "Add greet Method in String prototype.", 
                 "Implement flatten method without using closure.",
                 "How browsers load a Webpage i.e crital rendering path.",
@@ -14,11 +15,14 @@
                 "Why redux is helpful and its alternative.",
                 "Css positioning.",
                 "Differnece between css display properties => None, opacity: 0 and visibility: none."
-                ],
-                "round 2": [
+                ]
+            }, 
+            {
+                "questions": [
                     "Implement auto complete search box like google search using API, Implement debouncing as well."
                 ]
-            },
+            }
+            ],
             "Additional comments": "Interview panel can be more helpfull, interactive and should have empathy with the candidate.",
             "imgUrl": "https://www.thestatesman.com/wp-content/uploads/2021/04/razorpay-logo.jpg"
         }

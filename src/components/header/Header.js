@@ -1,15 +1,12 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import "./header.css";
-
-//onclick reload window
-const refreshPage = () => {
-    window.location.reload();
-};
-
 
 const Header = () => (
     <div className="header">
-        <h3 onClick={refreshPage}>Interview Box</h3>
+        <Link to="/">
+            <h3>Interview Box</h3>
+        </Link>
     </div>
 );
 
