@@ -1,0 +1,40 @@
+.card{
+    height: 200px;
+    width: 200px;
+    padding: 2px;
+    margin: 10px;
+    background: #F0F8FF;
+    border: 1px solid #66ffcc;
+    box-shadow: 5px 6px#d9d9d9;
+    border-radius: 5px;
+    position: relative;
+}
+
+.card-header{
+    display: flex;
+    justify-content: space-between;    
+    font-style: italic;
+    font-size: xx-small;
+    font-weight: lighter;
+}
+
+.main{
+    text-align: center;
+    font-weight: bold;
+    padding-top: 40px;
+}
+
+.card:hover{
+    cursor: pointer;
+}
+
+.card img{
+    position: absolute;
+    width: 98%;
+    height: 150px;
+    bottom: 0px;
+}
+
+h3{
+    padding: 8px;
+}

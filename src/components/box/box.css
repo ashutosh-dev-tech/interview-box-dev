@@ -1,11 +1,13 @@
 .container{
     width: auto;
+    position: absolute;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
     align-items: center;
     margin: 20px;
     padding: 10px;
+    top: 100px;
 }
 
 h3:hover{
