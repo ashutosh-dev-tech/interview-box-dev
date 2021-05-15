@@ -28,6 +28,26 @@
             ],
             "Additional comments": "Interview panel can be more helpfull, interactive and should have empathy with the candidate.",
             "imgUrl": "https://www.thestatesman.com/wp-content/uploads/2021/04/razorpay-logo.jpg"
+        },
+        {   "id": 1,
+            "company": "Nykaa",
+            "role": "Frontend",
+            "exprience": 3,
+            "website": "https://nykaa.com/",
+            "rounds": [
+            {
+                "questions": [
+                    "Write a react componenet for Button.All the buttons have same padding, font-size. Font-color may vary depending on button variant",
+                    "output:\n for (var i = 0; i < 5; i++) {\nsetTimeout(function() { console.log(i); }, i * 100 );\n}\n",
+                    "output:\n var x = { foo : 1};\n var output = (function(){\n delete x.foo;\n return x.foo;\n })();\n console.log(output);\n",
+                    "Output:\n var Employee = {\n company: 'xyz'\n }\n var emp1 = Object.create(Employee);\n delete emp1.company;\n console.log(emp1.company);\n",
+                    "Output\n(function(){\n  var a = b = 3;\n })();\n console.log('a defined? ' + (typeof a !== 'undefined'));\n console.log('b defined? ' + (typeof b !== 'undefined'));\n",
+                    "Write a function : mul(4)(3)(4)"
+                ]
+            }
+            ],
+            "Additional comments": "late interview feedback",
+            "imgUrl": "https://www.ambiencemalls.com/logos/02-31-19pm_01-02-2019-nykaa.png"
         }
     ]
 }
