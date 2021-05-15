@@ -1,0 +1,30 @@
+
+.post-header{
+    display: flex;
+    justify-content: space-between;
+    background: lightgray;
+    padding: 15px;    
+    font-weight: bold;
+}
+
+.post-header:hover{
+    background: wheat;
+}
+
+.post-ques{
+    padding: 20px;
+    background: #e6e6e6;
+    border: 0.5 solid black;
+    margin: 10px 5px;
+    width: auto;
+    font-family: 'JetBrains Mono', monospace;
+    border-radius: 5px;
+}
+
+.post-ques:hover{
+    background: wheat;
+}
+
+.post-header a{
+    cursor: pointer;
+}
