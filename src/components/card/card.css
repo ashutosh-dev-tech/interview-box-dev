@@ -1,12 +1,12 @@
 .card{
-    height: 200px;
-    width: 200px;
+    height: 210px;
+    width: 210px;
     padding: 2px;
-    margin: 10px;
+    margin: 23px;
     background: #F0F8FF;
     border: 1px solid #66ffcc;
     box-shadow: 5px 6px#d9d9d9;
-    border-radius: 5px;
+    border-radius: 8px;
     position: relative;
 }
 

@@ -28,6 +28,89 @@
             ],
             "Additional comments": "Interview panel can be more helpfull, interactive and should have empathy with the candidate.",
             "imgUrl": "https://www.thestatesman.com/wp-content/uploads/2021/04/razorpay-logo.jpg"
+        },
+        {   "id": 1,
+            "company": "Nykaa",
+            "role": "Frontend",
+            "exprience": 3,
+            "website": "https://nykaa.com/",
+            "rounds": [
+            {
+                "questions": [
+                    "Write a react componenet for Button.All the buttons have same padding, font-size. Font-color may vary depending on button variant",
+                    "output:\n for (var i = 0; i < 5; i++) {\nsetTimeout(function() { console.log(i); }, i * 100 );\n}\n",
+                    "output:\n var x = { foo : 1};\n var output = (function(){\n delete x.foo;\n return x.foo;\n })();\n console.log(output);\n",
+                    "Output:\n var Employee = {\n company: 'xyz'\n }\n var emp1 = Object.create(Employee);\n delete emp1.company;\n console.log(emp1.company);\n",
+                    "Output\n(function(){\n  var a = b = 3;\n })();\n console.log('a defined? ' + (typeof a !== 'undefined'));\n console.log('b defined? ' + (typeof b !== 'undefined'));\n",
+                    "Write a function : mul(4)(3)(4)"
+                ]
+            }
+            ],
+            "Additional comments": "late interview feedback",
+            "imgUrl": "https://www.ambiencemalls.com/logos/02-31-19pm_01-02-2019-nykaa.png"
+        },
+        {   "id": 2,
+            "company": "Ixigo",
+            "role": "Frontend",
+            "exprience": 3,
+            "website": "https://ixigo.com/",
+            "rounds": [
+            {
+                "questions": [
+                    "Given a nested object, get the num of obj elements ?",
+                    "write setInterval’s polyfill using setTimeout.",
+                    "Create a method 'divide' which can take N number of arguments and can be called M times until being called without any arguments \n divide(1,2....N arguments)[(1,2,3,4,....N)...M times]()\n e.g : divide(1000)(10)() // => 100 \n",
+                    "What are some Web optimisation tehniques ?"
+                ]
+            }
+            ],
+            "Additional comments": "Nice Experience",
+            "imgUrl": "https://img.etimg.com/thumb/width-640,height-480,imgsize-72585,resizemode-1,msid-58839701/small-biz/startups/ixigo-claims-it-is-the-most-used-travel-app/ixigo.jpg"
+        },
+        {   "id": 3,
+            "company": "Syfe",
+            "role": "Frontend",
+            "exprience": 2.5,
+            "website": "https://syfe.com/",
+            "rounds": [
+            {
+                "questions": [
+                        "Given an array [“123f”, “1dsa12”, “1212ds”, “65fd”, “sadfa”, “asdasd”] consider digits only and give result array containing numbers only in optimal way [123, 112, 1212, 65] .",
+                        "How does a promise work ?",
+                        "Write polyfill for promises ?",
+                        "What is Asyn await ?",
+                        "Output: \n(function() {\n     console.log(1);\n    setTimeout(function(){console.log(2)}, 1000);\n    setTimeout(function(){console.log(3)}, 0);\n     console.log(4);\n })();\n"
+                    ]
+            },
+            {
+                "questions": [
+                    "What is HTTP2 ?",
+                    "What is CORS ?",
+                    "Given a deep nested object. Write a function to check how deeply is it nested?",
+                    "Write a program to reverse String in place ignoring digits : 'abc12sdsf3sfds3' -> 'cba12fsds3sdfs' (reverse in place, delimeted by number)."
+                ]
+            }
+            ],
+            "Additional comments": "Offer was expected but no closure given",
+            "imgUrl": "https://i1.sndcdn.com/avatars-000195326852-gayug1-t500x500.jpg"
+        },
+        {   "id": 4,
+            "company": "Airtel",
+            "role": "Frontend",
+            "exprience": 3,
+            "website": "https://airtel.com/",
+            "rounds": [
+            {
+                "questions": [
+                        "Write a Balanced parentheses check program",
+                        "What are different ways to Ways to optimise react apps ?",
+                        "When do components rerender ?",
+                        "Write function for String permutations ?"
+                    ]
+            }
+            ],
+            "Additional comments": "React part was very deep and difficult",
+            "imgUrl": "https://genzy.in/wp-content/uploads/2020/10/Airtel.png"
         }
     ]
 }
