@@ -60,7 +60,7 @@
                     "Given a nested object, get the num of obj elements ?",
                     "write setInterval’s polyfill using setTimeout.",
                     "Create a method 'divide' which can take N number of arguments and can be called M times until being called without any arguments \n divide(1,2....N arguments)[(1,2,3,4,....N)...M times]()\n e.g : divide(1000)(10)() // => 100 \n",
-                    "What are some Web optimisation tehniques ?"
+                    "What are some Web Performance optimization tehniques ?"
                 ]
             }
             ],
