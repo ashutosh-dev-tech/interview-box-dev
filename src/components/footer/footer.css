@@ -8,6 +8,9 @@
     font-size: small;
     color: white;
 }
+.copyright{
+    margin-top: 6px;
+}
 
 .footer a, h5{
     color: white;
