@@ -8,3 +8,13 @@
     font-size: small;
     color: white;
 }
+
+.footer a, h5{
+    color: white;
+    margin: 3px;
+    padding: 2px;
+}
+
+.footer a:hover{
+    cursor: pointer;
+}

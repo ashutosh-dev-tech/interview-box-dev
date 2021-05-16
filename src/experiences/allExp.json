@@ -3,7 +3,7 @@
         {   "id": 0,
             "company": "Razarpay",
             "role": "Frontend",
-            "exprience": 2,
+            "exprience": "2",
             "website": "https://razorpay.com/",
             "rounds": [
             {
@@ -32,7 +32,7 @@
         {   "id": 1,
             "company": "Nykaa",
             "role": "Frontend",
-            "exprience": 3,
+            "exprience": "3",
             "website": "https://nykaa.com/",
             "rounds": [
             {
@@ -52,7 +52,7 @@
         {   "id": 2,
             "company": "Ixigo",
             "role": "Frontend",
-            "exprience": 3,
+            "exprience": "3",
             "website": "https://ixigo.com/",
             "rounds": [
             {
@@ -70,7 +70,7 @@
         {   "id": 3,
             "company": "Syfe",
             "role": "Frontend",
-            "exprience": 2.5,
+            "exprience":"2.5",
             "website": "https://syfe.com/",
             "rounds": [
             {
@@ -97,7 +97,7 @@
         {   "id": 4,
             "company": "Airtel",
             "role": "Frontend",
-            "exprience": 3,
+            "exprience": "3",
             "website": "https://airtel.com/",
             "rounds": [
             {
