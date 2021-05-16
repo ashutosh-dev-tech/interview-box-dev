@@ -5,7 +5,7 @@ import "./header.css";
 const Header = () => (
     <div className="header">
         <Link to="/">
-            <h3>Interview Box</h3>
+            <h2>Interview Box</h2>
         </Link>
     </div>
 );
