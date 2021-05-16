@@ -3,3 +3,6 @@
   npm i
 # Server Start
   npm start
+
+# Deploy
+  ./deploy.sh
