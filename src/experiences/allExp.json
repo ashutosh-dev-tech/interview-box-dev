@@ -163,14 +163,56 @@
                 "questions": [
                     "How does the web works?",
                     "How to know if the response is JSON or HTML from server",
-                    "Event loop",
-                    "How Will implement search page",
+                    "Explain Event loop.",
+                    "How Will implement search engine like google.",
                     "Why React , How is it better?"
                 ]
             }
             ],
             "Additional comments": "Not much",
-            "imgUrl": "https://lh3.googleusercontent.com/proxy/hyOeIpVNuDCYoGNMpT6VxIXHT1MO4yf8h3zYD4B-4khyUZlGIMiQ9PSssn4dAOFQ6mDMuohgGgzk5m7vFHO9ZlttPfXpQpDAl_n4"
+            "imgUrl": "https://www.clipartkey.com/mpngs/m/163-1634499_postman-test-logo.png"
+        },
+        {   "id": 7,
+            "company": "Olx",
+            "role": "Frontend",
+            "exprience": "3",
+            "website": "https://olx.com/",
+            "rounds": [
+                {
+                    "questions": [
+                        "Print all the permutation of a string.",
+                        "Take an input field. When you type in the input field it should do an API call. To simulate API calls you can use the setTimeout function. On each keystroke you are doing api call, you have to optimize,  “calling API call”. You will do an API call if the time difference between keystrokes is more than 300ms.",
+                        "Arrange 3 Divs in such a way that each div should be horizontally and vertically middle to each other.",
+                        "Explain event bubbling and capturing.",
+                        "Explain event loop.",
+                        "What are some of the new ES6 features introduced."
+                    ]
+                }
+            ],
+            "Additional comments": "Expected a callback",
+            "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/OLX_New_Logo.png"
+        },
+        {   "id": 8,
+            "company": "pocketpills",
+            "role": "Frontend",
+            "exprience": "2",
+            "website": "https://pocketpills.com/",
+            "rounds": [
+                {
+                    "questions": [
+                        "Find the number of subarrays having sum as 0.",
+		                "Find the arear of intersection of two rectangles given thier vertex coordinate."
+                    ]
+                },
+                {
+                    "questions": [
+                        "Write Reduce polyfill.",
+		                "Write a function sum(1)(2)(3)() which gives a output of 6 in this case."
+                    ]
+                }
+            ],
+            "Additional comments": "No feedback Given!",
+            "imgUrl": "https://pbs.twimg.com/profile_images/1098015686087983104/h2u6MZB7.png"
         }
 
     ]
