@@ -3,7 +3,6 @@ import "./card.css";
 import { Link } from 'react-router-dom';
 
 const Card = (props) => {
-    console.log(props.curExp.imgUrl);
     return (
         <div className="card" key={props.curExp.ind}>
             <div className="card-header">
