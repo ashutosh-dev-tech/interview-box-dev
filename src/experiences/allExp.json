@@ -27,7 +27,7 @@
             }
             ],
             "Additional comments": "Interview panel can be more helpfull, interactive and should have empathy with the candidate.",
-            "imgUrl": "https://www.thestatesman.com/wp-content/uploads/2021/04/razorpay-logo.jpg"
+            "imgUrl": "resources/images/razarpay.png"
         },
         {   "id": 1,
             "company": "Nykaa",
@@ -47,7 +47,7 @@
             }
             ],
             "Additional comments": "late interview feedback",
-            "imgUrl": "https://www.ambiencemalls.com/logos/02-31-19pm_01-02-2019-nykaa.png"
+            "imgUrl": "resources/images/nykaa.png"
         },
         {   "id": 2,
             "company": "Ixigo",
@@ -65,7 +65,7 @@
             }
             ],
             "Additional comments": "Nice Experience",
-            "imgUrl": "https://img.etimg.com/thumb/width-640,height-480,imgsize-72585,resizemode-1,msid-58839701/small-biz/startups/ixigo-claims-it-is-the-most-used-travel-app/ixigo.jpg"
+            "imgUrl": "resources/images/ixigo.png"
         },
         {   "id": 3,
             "company": "Syfe",
@@ -92,7 +92,7 @@
             }
             ],
             "Additional comments": "Offer was expected but no closure given",
-            "imgUrl": "https://i1.sndcdn.com/avatars-000195326852-gayug1-t500x500.jpg"
+            "imgUrl": "resources/images/syfe.png"
         },
         {   "id": 4,
             "company": "Airtel",
@@ -110,7 +110,7 @@
             }
             ],
             "Additional comments": "React part was very deep and difficult",
-            "imgUrl": "https://genzy.in/wp-content/uploads/2020/10/Airtel.png"
+            "imgUrl": "resources/images/airtel.png"
         },
         {   "id": 5,
             "company": "Hackerrank",
@@ -142,7 +142,7 @@
             }
             ],
             "Additional comments": "Interviews were well organized and all people were very helpfull",
-            "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png"
+            "imgUrl": "resources/images/hackerrank.png"
         },
         {   "id": 6,
             "company": "Postman",
@@ -170,7 +170,7 @@
             }
             ],
             "Additional comments": "Not much",
-            "imgUrl": "https://www.clipartkey.com/mpngs/m/163-1634499_postman-test-logo.png"
+            "imgUrl": "resources/images/postman.png"
         },
         {   "id": 7,
             "company": "Olx",
@@ -190,7 +190,7 @@
                 }
             ],
             "Additional comments": "Expected a callback",
-            "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/OLX_New_Logo.png"
+            "imgUrl": "resources/images/olx.png"
         },
         {   "id": 8,
             "company": "pocketpills",
@@ -212,7 +212,7 @@
                 }
             ],
             "Additional comments": "No feedback Given!",
-            "imgUrl": "https://pbs.twimg.com/profile_images/1098015686087983104/h2u6MZB7.png"
+            "imgUrl": "resources/images/pocketpills.png"
         }
 
     ]
