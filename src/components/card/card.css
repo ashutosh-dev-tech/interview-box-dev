@@ -2,12 +2,11 @@
     height: 210px;
     width: 210px;
     padding: 2px;
-    margin: 23px;
-    background: #F0F8FF;
-    border: 1px solid #66ffcc;
-    box-shadow: 5px 6px#d9d9d9;
+    margin-inline: 50px;
+    margin-block: 24px;
+    background:#F2F2F2;
+    box-shadow: 7px 7px#d9d9d9;
     border-radius: 8px;
-    position: relative;
 }
 
 .card-header{
@@ -29,10 +28,10 @@
 }
 
 .card img{
-    position: absolute;
     width: 98%;
     height: 150px;
     bottom: 0px;
+    border-radius: 5px;
 }
 
 .card-header h3{

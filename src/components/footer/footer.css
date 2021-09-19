@@ -3,7 +3,21 @@
     text-align: center;
     width: 100%;
     position: fixed;
-    background: #66ffcc;
-    border: 1px solid black;
+    background: #383838;
+    border: 1px solid grey;
     font-size: small;
+    color: white;
+}
+.copyright{
+    margin-top: 6px;
+}
+
+.footer a, h5{
+    color: white;
+    margin: 3px;
+    padding: 2px;
+}
+
+.footer a:hover{
+    cursor: pointer;
 }

@@ -3,7 +3,7 @@
         {   "id": 0,
             "company": "Razarpay",
             "role": "Frontend",
-            "exprience": 2,
+            "exprience": "2",
             "website": "https://razorpay.com/",
             "rounds": [
             {
@@ -27,12 +27,12 @@
             }
             ],
             "Additional comments": "Interview panel can be more helpfull, interactive and should have empathy with the candidate.",
-            "imgUrl": "https://www.thestatesman.com/wp-content/uploads/2021/04/razorpay-logo.jpg"
+            "imgUrl": "resources/images/razarpay.png"
         },
         {   "id": 1,
             "company": "Nykaa",
             "role": "Frontend",
-            "exprience": 3,
+            "exprience": "3",
             "website": "https://nykaa.com/",
             "rounds": [
             {
@@ -47,12 +47,12 @@
             }
             ],
             "Additional comments": "late interview feedback",
-            "imgUrl": "https://www.ambiencemalls.com/logos/02-31-19pm_01-02-2019-nykaa.png"
+            "imgUrl": "resources/images/nykaa.png"
         },
         {   "id": 2,
             "company": "Ixigo",
             "role": "Frontend",
-            "exprience": 3,
+            "exprience": "3",
             "website": "https://ixigo.com/",
             "rounds": [
             {
@@ -65,12 +65,12 @@
             }
             ],
             "Additional comments": "Nice Experience",
-            "imgUrl": "https://img.etimg.com/thumb/width-640,height-480,imgsize-72585,resizemode-1,msid-58839701/small-biz/startups/ixigo-claims-it-is-the-most-used-travel-app/ixigo.jpg"
+            "imgUrl": "resources/images/ixigo.png"
         },
         {   "id": 3,
             "company": "Syfe",
             "role": "Frontend",
-            "exprience": 2.5,
+            "exprience":"2.5",
             "website": "https://syfe.com/",
             "rounds": [
             {
@@ -92,12 +92,12 @@
             }
             ],
             "Additional comments": "Offer was expected but no closure given",
-            "imgUrl": "https://i1.sndcdn.com/avatars-000195326852-gayug1-t500x500.jpg"
+            "imgUrl": "resources/images/syfe.png"
         },
         {   "id": 4,
             "company": "Airtel",
             "role": "Frontend",
-            "exprience": 3,
+            "exprience": "3",
             "website": "https://airtel.com/",
             "rounds": [
             {
@@ -110,7 +110,110 @@
             }
             ],
             "Additional comments": "React part was very deep and difficult",
-            "imgUrl": "https://genzy.in/wp-content/uploads/2020/10/Airtel.png"
+            "imgUrl": "resources/images/airtel.png"
+        },
+        {   "id": 5,
+            "company": "Hackerrank",
+            "role": "Frontend",
+            "exprience": "2",
+            "website": "https://hackerrank.com/",
+            "rounds": [
+            {
+                "questions": [
+                    "Implement a react Editor Wrapper component and store data in local storage. Rerender the component when user Types some new text.",
+                    "Implement Conditional Rendering of some component based on some given conditions.",
+                    "Implement Flex boxes with left and right most box with no margin or padding."
+                ]
+            },
+            {
+                "questions": [
+                    "Current work and processes used.",
+                    "What is the most difficult project you have worked on?",
+                    "What is the Tech stack you are currently working on.",
+                    "Why do you want to join Hackerrank."
+                ]
+            },
+            {
+                "questions":[
+                    "Lets say you have a list of Tasks and we want to run these tasks one after the other. Suppose we want to have start, stop and resume functionality. Implement a scheduler.",
+                    "What are some design patterns you have worked on ?",
+                    "Lets say in an online editor when you are writing code in a specific language say java. Some Specific words like int gets highlighted. How do you make sure only this part of the DOM elements colour gets updated and other things don't rerender?"
+                ]
+            }
+            ],
+            "Additional comments": "Interviews were well organized and all people were very helpfull",
+            "imgUrl": "resources/images/hackerrank.png"
+        },
+        {   "id": 6,
+            "company": "Postman",
+            "role": "Fullstack",
+            "exprience": "1",
+            "website": "https://postman.com/",
+            "rounds": [
+            {
+                "questions": [
+                    "What is the current Tech Stack you are working on",
+                    "How can we optimise a website.",
+                    "How to design a scalable website",
+                    "What is the most challenging project ypu have worked on?",
+                    "Why do you want to join postman?"
+                ]
+            },
+            {
+                "questions": [
+                    "How does the web works?",
+                    "How to know if the response is JSON or HTML from server",
+                    "Explain Event loop.",
+                    "How Will implement search engine like google.",
+                    "Why React , How is it better?"
+                ]
+            }
+            ],
+            "Additional comments": "Not much",
+            "imgUrl": "resources/images/postman.png"
+        },
+        {   "id": 7,
+            "company": "Olx",
+            "role": "Frontend",
+            "exprience": "3",
+            "website": "https://olx.com/",
+            "rounds": [
+                {
+                    "questions": [
+                        "Print all the permutation of a string.",
+                        "Take an input field. When you type in the input field it should do an API call. To simulate API calls you can use the setTimeout function. On each keystroke you are doing api call, you have to optimize,  “calling API call”. You will do an API call if the time difference between keystrokes is more than 300ms.",
+                        "Arrange 3 Divs in such a way that each div should be horizontally and vertically middle to each other.",
+                        "Explain event bubbling and capturing.",
+                        "Explain event loop.",
+                        "What are some of the new ES6 features introduced."
+                    ]
+                }
+            ],
+            "Additional comments": "Expected a callback",
+            "imgUrl": "resources/images/olx.png"
+        },
+        {   "id": 8,
+            "company": "pocketpills",
+            "role": "Frontend",
+            "exprience": "2",
+            "website": "https://pocketpills.com/",
+            "rounds": [
+                {
+                    "questions": [
+                        "Find the number of subarrays having sum as 0.",
+		                "Find the arear of intersection of two rectangles given thier vertex coordinate."
+                    ]
+                },
+                {
+                    "questions": [
+                        "Write Reduce polyfill.",
+		                "Write a function sum(1)(2)(3)() which gives a output of 6 in this case."
+                    ]
+                }
+            ],
+            "Additional comments": "No feedback Given!",
+            "imgUrl": "resources/images/pocketpills.png"
         }
+
     ]
 }

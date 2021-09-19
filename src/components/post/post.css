@@ -5,6 +5,7 @@
     background: lightgray;
     padding: 15px;    
     font-weight: bold;
+    border-radius: 10px;
 }
 
 .post-header:hover{

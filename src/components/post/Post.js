@@ -4,7 +4,7 @@ import './post.css';
 
 const Post = (props) => {
     const curPost = allExp.expList[props.id];
-
+    debugger;
     return (
     <>
         <div className="post-header">
